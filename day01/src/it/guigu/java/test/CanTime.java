@@ -13,6 +13,7 @@ public class CanTime {
         String[] uu = (String[]) new Object[10];
         uu[0] = new String("oo");
         System.out.println("ceshi");
+         System.out.println("xianshangceshi");
         System.out.println(uu);
 
 
