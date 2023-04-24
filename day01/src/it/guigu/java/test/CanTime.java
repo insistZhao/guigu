@@ -12,6 +12,7 @@ public class CanTime {
         new ArrayList();
         String[] uu = (String[]) new Object[10];
         uu[0] = new String("oo");
+        System.out.println("ceshi");
         System.out.println(uu);
 
 
